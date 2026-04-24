@@ -8,9 +8,6 @@ This project analyzes Titanic passenger data and presents key insights using an 
 - Python (data exploration)
 - Excel (initial analysis)
 
-## Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
-
 ## Key Insights
 - Females had higher survival rates than males
 - 1st class passengers had the highest survival rate
@@ -21,5 +18,5 @@ This project analyzes Titanic passenger data and presents key insights using an 
 - titanic.csv
 
 ## Author
-Your Name# titanic-powerbi-dashboard
+Ajibola Adejoke #titanic-powerbi-dashboard
 Interactive Titanic survival dashboard built with Power BI
